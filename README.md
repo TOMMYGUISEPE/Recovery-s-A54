@@ -35,7 +35,7 @@ Available at [https://github.com/Vaz15k/android_kernel_samsung_a54x/tree/twrp-12
 
 This device tree was tested and is fully compatible with [minimal-manifest-twrp](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp).
 
-1. Set up the build environment following the instructions [here](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp/blob/twrp-12.1/README.md#getting-started)
+1. Set up the build environment following the instructions [here]([https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp/blob/twrp-12.1/README.md#getting-started](https://github.com/PitchBlackRecoveryProject/manifest_pb#how-to-build))
 
 2. In the root folder of the fetched repo, clone the device tree:
 
