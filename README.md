@@ -1,4 +1,4 @@
-# TWRP Device Tree for Samsung Galaxy A54 5G
+# PBPR Recovery for Samsung Galaxy A54 5G
 
 The Galaxy A54 5G (codenamed _"a54x"_) is an upper-mid-range smartphone from Samsung.
 
@@ -73,5 +73,6 @@ mka recoveryimage
 ```
 ## Credits
 
-Thank you BlackMesa123 (Salvo), for all!
+Thank you BlackMesa123 (Salvo)
+Thank you Vaz15k
 
