@@ -1,4 +1,4 @@
-# PBPR Recovery for Samsung Galaxy A54 5G
+# [UNOFICIAL] PBPR Recovery for Samsung Galaxy A54 5G
 
 The Galaxy A54 5G (codenamed _"a54x"_) is an upper-mid-range smartphone from Samsung.
 
@@ -49,7 +49,7 @@ git clone https://github.com/TOMMYGUISEPE/Recovery-s-A54.git -b PBPR device/sams
 export ALLOW_MISSING_DEPENDENCIES=true
 . build/envsetup.sh
 lunch twrp_a54x-eng
-mka recoveryimage
+mka pbrp
 ```
 
 ## Copyright
