@@ -40,7 +40,7 @@ This device tree was tested and is fully compatible with [minimal-manifest-twrp]
 2. In the root folder of the fetched repo, clone the device tree:
 
 ```bash
-git clone https://github.com/Vaz15k/android_device_samsung_a54x.git -b twrp-12.1 device/samsung/a54x
+git clone https://github.com/TOMMYGUISEPE/Recovery-s-A54.git -b PBPR device/samsung/a54x
 ```
 
 3. To build:
@@ -74,5 +74,6 @@ mka recoveryimage
 ## Credits
 
 Thank you BlackMesa123 (Salvo)
+
 Thank you Vaz15k
 
